@@ -82,7 +82,7 @@ Check `package.json` for available scripts. Typical ones include:
 
 ## 📄 License
 
-_Add license details here if any._
+Apache License
 
 ---
 
